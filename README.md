@@ -3,66 +3,66 @@
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-### DevConnect – Developer Networking Platform
-A full-stack MERN application where developers can connect, send requests, and chat in real-time.
-
-Frontend:  
-https://github.com/siddesh213/Devconnect-frontend
-
-Backend:  
-https://github.com/siddesh213/Devconnect-backend
-
-
-### Smart Interview Preparation Platform
-A MERN application that generates personalized study plans for interview preparation and tracks learning progress.
-
-Frontend:  
-https://github.com/siddesh213/Smartinterview-frontend
-
-Backend:  
-https://github.com/siddesh213/Smartinterview-Backend
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-## 🌐 Connect with me
+## 👨‍💻 Coding Profiles
 
-LinkedIn  
-https://www.linkedin.com/in/siddesh-s-k/
-
-LeetCode  
+🔹 **LeetCode**  
 https://leetcode.com/u/siddesh2004/
 
-GeeksforGeeks  
+🔹 **GeeksforGeeks**  
 https://www.geeksforgeeks.org/user/siddusidsjdg/
 
 ---
 
-## 🛠️ Languages and Tools
+## 🚀 Projects
 
-Python | JavaScript | Node.js | Express.js | MongoDB | SQL | Git | Postman
+### DevConnect – Developer Networking Platform
+Full-stack MERN platform where developers can connect, send requests and chat in real-time.
+
+Frontend  
+https://github.com/siddesh213/Devconnect-frontend
+
+Backend  
+https://github.com/siddesh213/Devconnect-backend
+
+
+### Smart Interview Preparation Platform
+MERN application that generates personalized interview preparation plans and tracks progress.
+
+Frontend  
+https://github.com/siddesh213/Smartinterview-frontend
+
+Backend  
+https://github.com/siddesh213/Smartinterview-Backend
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-![Siddesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddesh213&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=siddesh213&theme=tokyonight)
+• Solved **500+ Data Structures & Algorithms problems**  
+• **LeetCode Contest Rating: 1561**  
+• Mentored **35+ students** in Data Structures & Algorithms  
+• **NPTEL Silver Elite Certification** in Python for Data Science  
 
 ---
 
-## 💻 Top Languages
+## 🤝 Connect with me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddesh213&layout=compact&theme=tokyonight)
+📧 Email  
+siddeshh.s.k@gmail.com
 
----
-
-## 📫 Contact
-
-Email: siddeshh.s.k@gmail.com
+💼 LinkedIn  
+https://www.linkedin.com/in/siddesh-s-k/
