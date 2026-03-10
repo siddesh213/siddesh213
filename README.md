@@ -3,31 +3,30 @@
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-🔹 **DevConnect – Developer Networking Platform**  
-Full-stack MERN platform where developers can connect, send requests, and chat in real-time.  
-Backend built using **Node.js, Express.js, MongoDB, Socket.IO**.  
+### DevConnect – Developer Networking Platform
+A full-stack MERN application where developers can connect, send requests, and chat in real-time.
 
-Frontend Repo:  
-https://github.com/siddesh213/Devconnect-frontend  
+Frontend:  
+https://github.com/siddesh213/Devconnect-frontend
 
-Backend Repo:  
-https://github.com/siddesh213/Devconnect-backend  
+Backend:  
+https://github.com/siddesh213/Devconnect-backend
 
 
-🔹 **Smart Interview Preparation Platform**  
-A MERN application that generates a **personalized interview study plan** and tracks progress for DSA, DBMS, System Design.  
+### Smart Interview Preparation Platform
+A MERN application that generates personalized study plans for interview preparation and tracks learning progress.
 
-Frontend Repo:  
-https://github.com/siddesh213/Smartinterview-frontend  
+Frontend:  
+https://github.com/siddesh213/Smartinterview-frontend
 
-Backend Repo:  
-https://github.com/siddesh213/Smartinterview-Backend  
+Backend:  
+https://github.com/siddesh213/Smartinterview-Backend
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 
 LinkedIn  
 https://www.linkedin.com/in/siddesh-s-k/
@@ -40,7 +39,30 @@ https://www.geeksforgeeks.org/user/siddusidsjdg/
 
 ---
 
-### 📫 Contact
+## 🛠️ Languages and Tools
 
-Email:  
-siddeshh.s.k@gmail.com
+Python | JavaScript | Node.js | Express.js | MongoDB | SQL | Git | Postman
+
+---
+
+## 📊 GitHub Stats
+
+![Siddesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddesh213&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=siddesh213&theme=tokyonight)
+
+---
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddesh213&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+Email: siddeshh.s.k@gmail.com
